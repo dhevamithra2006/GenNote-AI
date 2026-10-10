@@ -1,0 +1,6 @@
+{
+  "name": "GenNote AI",
+  "description": "All-in-one multimodal AI notebook and study assistant. Upload sources once to generate summaries, audio overviews, slide decks, video scripts, mind maps, quizzes, flashcards, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
